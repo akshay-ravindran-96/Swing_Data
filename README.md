@@ -8,3 +8,5 @@ O(1) insert, O(1) retrieval
 
 3) Diamond_Kinetics.java does all the four functions based on the user input value.
 
+4) All #PNG Files# are output for each of the given functions.
+
